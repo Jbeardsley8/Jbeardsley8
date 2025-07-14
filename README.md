@@ -7,9 +7,9 @@
 ---
 
 ##  Tech Stack  
-**Languages:** Python, SQL, HTML/CSS
-**Tools:** Power BI, Tableau, Git, AWS (S3, Glue, Redshift)
-**Frameworks/Libraries:** Pandas, NumPy, Matplotlib, SciPy, scikit-learn, Statsmodels, MLxtend, TensorFlow, Plotly
+- Languages: Python, SQL, HTML/CSS
+- Tools: Power BI, Tableau, Git, AWS (S3, Glue, Redshift)
+- Frameworks/Libraries: Pandas, NumPy, Matplotlib, SciPy, scikit-learn, Statsmodels, MLxtend, TensorFlow, Plotly
 
 ---
 
