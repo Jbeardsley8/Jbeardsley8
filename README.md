@@ -1,8 +1,8 @@
 ## Hi, I'm Jacob Beardsley! 👋
 
-🎯 Data Analyst | Aspiring Data Engineer | Exploring Backend Dev  
-💡 Currently working with Java, Python, and API integration  
-🛠️ Open to Data Analyst, Business Intelligence, and entry level IT roles
+- Data Analyst | Aspiring Data Engineer | Exploring Backend Dev  
+- Currently working with Java, Python, and API integration  
+- Open to Data Analyst, Business Intelligence, and entry level IT roles
 
 ---
 
