@@ -7,17 +7,17 @@
 ---
 
 ## About Me
-**Current Focus:** 
-API Integration · Python · JavaScript · CompTIA Certification Prep
+**Current Focus** 
+ API Integration · Python · JavaScript · CompTIA Certification Prep
 
-**Career Goals:** 
-Transition into Data Engineering  / Information System Security
+**Career Goals** 
+ Transition into Data Engineering  / Information System Security
 
-**Interests:** 
-Exploring new technologies and building things  
+**Interests** 
+ Exploring new technologies and building things  
 
-**Open To:** 
-Data Analyst · Business Intelligence · Entry-Level IT Roles  
+**Open To** 
+ Data Analyst · Business Intelligence · Entry-Level IT Roles  
 
 ---
 
