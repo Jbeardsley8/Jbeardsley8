@@ -4,38 +4,48 @@
   </a>
 </p>
 
----
+```javascript
+// About Me
+function whoami() {
+  return "Jacob Beardsley — Data Analyst";
+}
 
-## About Me
-**Current Focus**  
-API Integration · Python · JavaScript · CompTIA Certification Prep  
+function getCurrentFocus() {
+  return [
+    "API Integration",
+    "Python",
+    "JavaScript",
+    "CompTIA Certification Prep"
+  ];
+}
 
-**Career Goals**  
-Transition from analytics into Data Engineering or Information System Security
+// Tech Stack
+function getTechStack() {
+  return {
+    languages: ["Python", "SQL", "HTML/CSS"],
+    frameworks: [
+      "Pandas", "NumPy", "Matplotlib", "SciPy",
+      "scikit-learn", "Statsmodels", "MLxtend"
+    ],
+    toolsAndPlatforms: [
+      "Power BI", "Tableau", "MySQL", "SQLite",
+      "PyCharm", "Visual Studio Code"
+    ],
+    cloudTechnologies: [
+      "AWS S3", "AWS Glue", "AWS Redshift", "Azure Data Factory"
+    ]
+  };
+}
 
-**Interests**  
-Exploring new technologies and building things  
+//Connect with Me
+function getContactInfo() {
+  return {
+    email: "beardsleyj81@gmail.com",
+    linkedIn: "https://linkedin.com/in/jacob-beardsley-50703a177"
+  };
+}
+```
 
-**Open To**  
-Data Analyst · Business Intelligence · Entry-Level IT Roles 
-
----
-
-##  Tech Stack  
-**Languages**  
-Python · SQL · JavaScript · HTML/CSS  
-
-**Tools**  
-Power BI · Tableau · Git · AWS (S3, Glue, Redshift)  
-
-**Frameworks / Libraries**  
-Pandas · NumPy · Matplotlib · SciPy · scikit-learn · Statsmodels · MLxtend · TensorFlow · Plotly 
-
----
-
-## Connect with Me  
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-beardsley-50703a177/)  
-Email: beardsleyj81@gmail.com 
 
 
 
