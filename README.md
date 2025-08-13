@@ -22,7 +22,7 @@ function getCurrentFocus() {
 // Tech Stack
 function getTechStack() {
   return {
-    languages: ["Python", "SQL", "HTML/CSS"],
+    languages: ["Python", "SQL", "HTML/CSS", "JavaScript"],
     frameworks: [
       "Pandas", "NumPy", "Matplotlib", "SciPy",
       "scikit-learn", "Statsmodels", "MLxtend"
