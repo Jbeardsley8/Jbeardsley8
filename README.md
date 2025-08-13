@@ -6,16 +6,24 @@
 
 ---
 
-# About Me
-- Data Analyst | Aspiring Data Engineer | Exploring New Technologies 
-- Currently working with Java, Python, and API integration  
-- Open to Data Analyst, Business Intelligence, and entry level IT roles.
+## About Me
+**Current Focus:** 
+API Integration · Python · JavaScript · CompTIA Certification Prep
+
+**Career Goals:** 
+Transition into Data Engineering  / Information System Security
+
+**Interests:** 
+Exploring new technologies and building things  
+
+**Open To:** 
+Data Analyst · Business Intelligence · Entry-Level IT Roles  
 
 ---
 
 ##  Tech Stack  
 **Languages**  
-Python · SQL · Java · HTML/CSS  
+Python · SQL · JavaScript · HTML/CSS  
 
 **Tools**  
 Power BI · Tableau · Git · AWS (S3, Glue, Redshift)  
