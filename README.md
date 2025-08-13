@@ -11,7 +11,7 @@
 API Integration · Python · JavaScript · CompTIA Certification Prep  
 
 **Career Goals**  
-Transition into Data Engineering / Information System Security  
+Transition from analytics into Data Engineering or Information System Security
 
 **Interests**  
 Exploring new technologies and building things  
