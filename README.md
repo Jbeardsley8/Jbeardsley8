@@ -2,7 +2,7 @@
 
 - Data Analyst | Aspiring Data Engineer | Exploring New Technologies 
 - Currently working with Java, Python, and API integration  
-- Open to Data Analyst, Business Intelligence, and entry level IT roles
+- Open to Data Analyst, Business Intelligence, and entry level IT roles.
 
 ---
 
