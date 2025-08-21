@@ -6,7 +6,7 @@
 
 ```javascript
 // About Me
-function whoami() {
+function WhoAmI() {
   return "Jacob Beardsley — Data Analyst";
 }
 
