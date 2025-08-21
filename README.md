@@ -10,7 +10,7 @@ function whoami() {
   return "Jacob Beardsley — Data Analyst";
 }
 
-function getCurrentFocus() {
+function CurrentFocus() {
   return [
     "API Integration",
     "Python",
@@ -20,7 +20,7 @@ function getCurrentFocus() {
 }
 
 // Tech Stack
-function getTechStack() {
+function TechStack() {
   return {
     languages: ["Python", "SQL", "HTML/CSS", "JavaScript"],
     frameworks: [
@@ -38,7 +38,7 @@ function getTechStack() {
 }
 
 //Connect with Me
-function getContactInfo() {
+function ContactInfo() {
   return {
     email: "beardsleyj81@gmail.com",
     linkedIn: "https://linkedin.com/in/jacob-beardsley-50703a177"
