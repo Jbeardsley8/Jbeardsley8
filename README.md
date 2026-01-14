@@ -7,7 +7,7 @@
 ```javascript
 // About Me
 function WhoAmI() {
-  return "Jacob Beardsley — Data Analyst";
+  return "Jacob Beardsley";
 }
 
 function CurrentFocus() {
@@ -15,7 +15,7 @@ function CurrentFocus() {
     "API Integration",
     "Python",
     "JavaScript",
-    "CompTIA Certification Prep"
+    "C++"
   ];
 }
 
