@@ -15,7 +15,7 @@ function CurrentFocus() {
     "API Integration",
     "Python",
     "JavaScript",
-    "C++"
+    "Rust"
   ];
 }
 
