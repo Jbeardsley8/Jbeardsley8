@@ -15,7 +15,8 @@ function CurrentFocus() {
     "API Integration",
     "Python",
     "JavaScript",
-    "Rust"
+    "Rust",
+    "AWS Certification"
   ];
 }
 
