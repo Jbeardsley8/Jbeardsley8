@@ -5,46 +5,6 @@
 </p>
 
 ```javascript
-// About Me
-function WhoAmI() {
-  return "Jacob Beardsley";
-}
-
-function CurrentFocus() {
-  return [
-    "API Integration",
-    "Python",
-    "JavaScript",
-    "Rust",
-    "AWS Certification"
-  ];
-}
-
-// Tech Stack
-function TechStack() {
-  return {
-    languages: ["Python", "SQL", "HTML/CSS", "JavaScript"],
-    frameworks: [
-      "Pandas", "NumPy", "Matplotlib", "SciPy",
-      "scikit-learn", "Statsmodels", "MLxtend"
-    ],
-    toolsAndPlatforms: [
-      "Power BI", "Tableau", "MySQL", "SQLite",
-      "PyCharm", "Visual Studio Code"
-    ],
-    cloudTechnologies: [
-      "AWS S3", "AWS Glue", "AWS Redshift", "Azure Data Factory"
-    ]
-  };
-}
-
-//Connect with Me
-function ContactInfo() {
-  return {
-    email: "beardsleyj81@gmail.com",
-    linkedIn: "https://linkedin.com/in/jacob-beardsley-50703a177"
-  };
-}
 ```
 
 
